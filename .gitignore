@@ -1,2 +1,6 @@
-.idea/
-venv/
+*
+!extract/
+!air_traffic.graphml
+!airports.csv
+!anac.zip
+!.gitignore
