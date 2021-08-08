@@ -41,6 +41,7 @@ Eigenvector Centrality:
 
 
 Centrality Distributions: 
+Na imagem a seguir temos....
 
 ![1](https://user-images.githubusercontent.com/41967839/128634008-0b57833b-1ecf-4b20-9fe0-77284c9f7d3f.png)
 
