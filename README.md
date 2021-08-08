@@ -1,4 +1,4 @@
-# Malha aerea brasileira
+# Malha aérea brasileira
 Este repositório contém registro de voôs realizado no Brasil nos anos de 2020 e 2021, os dados foram retirados do site da ANAC (Agência Nacional de Aviação Civil - National Civil Aviation Agency), temos ainda um comparativo entre as malhas dos anos citados anteriomente através de métricas. 
 
 ## Datasets
