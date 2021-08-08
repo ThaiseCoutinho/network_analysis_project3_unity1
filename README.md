@@ -16,7 +16,7 @@ Center: Conjunto de todos os nós em uma rede cujo a eccentricity é igual ao ra
 Closeness Centrality: Distância média entre os vértices.
 
 
-Eigenvector Centrality: Importância baseada na importância dos nós vizinhos.
+Eigenvector Centrality: Importância de um dado nó baseada na importância dos nós vizinhos.
 
 
 Centrality Distributions: 
