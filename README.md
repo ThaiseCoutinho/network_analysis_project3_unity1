@@ -22,7 +22,7 @@ Eigenvector Centrality: Importância de um dado nó baseada na importância dos 
 Centrality Distributions: Distribuição de centralidade, nesse caso foi utilizado a PDF(Probability Density Function) ou Função Densidade de Probabilidade para realizar uma análise mais complexa dos dados.
 
 
-Core Decomposition:
+Core Decomposition: Possibilita encontrar o núcleo do grafo, ou seja, os nós que possuem maiores quantidades de conexões com os demais nós do grafo.
 
 
 
@@ -66,4 +66,4 @@ Na imagem acima, temos os nós mais externos, em azul, que se ligam a, pelo meno
 
 
 Conlusão:
-Como analisado através dos resultados obtidos conclui-se que não houve alterações nas malhas aéreas dos anos de 2020 e 2021, podemos atribuí isso ao estado de pademia que o país vem enfrentado no decorrer deste dois anos. 
+A partir da análise dos resultados obtidos conclui-se que não houve alterações nas malhas aéreas dos anos de 2020 e 2021, podemos atribuí isso ao estado de pademia que o país vem enfrentado no decorrer deste dois anos. 
