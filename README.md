@@ -27,7 +27,7 @@ Core Decomposition: Possibilita encontrar o núcleo do grafo, ou seja, os nós q
 
 
 ## Grafo da rede
-Como os valores dos datasets utilizados são muito próximos o grafo abaixo se refere a malha de ambas as redes.
+Como os valores dos datasets utilizados são muito próximos o grafo abaixo se refere as malhas de ambas as redes.
 ![3](https://user-images.githubusercontent.com/41967839/128645330-9a07c46a-7fa0-406f-86ca-77bd9fe079f4.png)
 
 
