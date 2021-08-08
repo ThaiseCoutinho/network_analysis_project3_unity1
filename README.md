@@ -19,7 +19,7 @@ Closeness Centrality: Distância média entre os vértices.
 Eigenvector Centrality: Importância de um dado nó baseada na importância dos nós vizinhos.
 
 
-Centrality Distributions: Distribuição de centralidade, nesse caso foi utilizado a PDF(Probability Density Function) ou Função Densidade de Probabilidade.
+Centrality Distributions: Distribuição de centralidade, nesse caso foi utilizado a PDF(Probability Density Function) ou Função Densidade de Probabilidade para realizar uma análise mais complexa dos dados.
 
 
 Core Decomposition:
