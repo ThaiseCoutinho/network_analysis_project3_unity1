@@ -41,9 +41,13 @@ Eigenvector Centrality:
 
 
 Centrality Distributions: 
-Na imagem a seguir temos....
+Na imagem a seguir temos.... 2020
 
 ![1](https://user-images.githubusercontent.com/41967839/128634008-0b57833b-1ecf-4b20-9fe0-77284c9f7d3f.png)
+
+2021
+![2](https://user-images.githubusercontent.com/41967839/128640301-e690de38-06b0-489c-bedb-c3776225c38d.png)
+
 
 
 Core Decomposition:
