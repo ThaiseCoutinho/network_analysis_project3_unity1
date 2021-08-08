@@ -28,17 +28,16 @@ Core Decomposition:
 
 ## Comparativo
 
-Diameter: Antes de saber o diâmentro de uma rede propriamente dito, se faz necessário conhencer sua eccentricity (excentricidade) que se refere basicamente a distância máxima de um referido nó aos demais nós da rede, assim sendo o diâmetro é o maior valor (valor máximo) da excentricidade presente na rede. A malha da rede referente ao resumo anual dos vôos em 2020 possuí cento e oito (108) nós com excentricidade máxima de seis (6), ou seja o valor do diâmetro nessa rede é seis (6).
-Já ....
+Diameter: Antes de saber o diâmentro de uma rede propriamente dito, se faz necessário conhencer sua eccentricity (excentricidade) que se refere basicamente a distância máxima de um referido nó aos demais nós da rede, assim sendo o diâmetro é o maior valor (valor máximo) da excentricidade presente na rede. A malha da rede referente ao resumo anual dos vôos em 2020 possui cento e oito (108) nós com excentricidade máxima de seis (6), ou seja o valor do diâmetro nessa rede é seis (6). A malha de rede do resumo anual de 2021 possui cento e oito nós, com excentricidade máxima seis, dessa forma percebe-se que não houve mundança significativa nas malhas de rede dos anos analisados.
 
 
-Center: Como mencionado anteriormente o valor referente ao center é o conjunto de valores presente na rede cuja a excentricidade é igual valor do raio, vale salientar que o valor do raio em uma rede será sempre o valor mínimo da excentricidade. Na malha de rede do resumo anual dos vôos em 2020 o valor do centro é três (3). Na malha que se refere ao resumo anual dos vôos em 2021...
+Center: Como mencionado anteriormente o valor referente ao center é o conjunto de valores presente na rede cuja a excentricidade é igual valor do raio, vale salientar que o valor do raio em uma rede será sempre o valor mínimo da excentricidade. Na malha de rede do resumo anual dos vôos em 2020 o valor do centro é três (3). Na malha que se refere ao resumo anual dos vôos em 2021 temos que o valor atribuído ao center é igual ao do ano anterior, não havendo alterações nesta métrica.
 
 
-Closeness Centrality: O objetivo dessa métrica é descobrir a distância média de um determinado nó aos demais nós da rede considerando sempre o menor caminho, dessa forma quanto menor o valor do closeness centrality atribuído a um dado, menor serar sua distância média aos nós da rede. Na malha da rede do resumo anual dos vôos em 2020 o menor valor do closeness centrality é igual à 0.24429223744292236.
+Closeness Centrality: O objetivo dessa métrica é descobrir a distância média de um determinado nó aos demais nós da rede considerando sempre o menor caminho, dessa forma quanto menor o valor do closeness centrality atribuído a um dado, menor serar sua distância média aos nós da rede. Na malha da rede do resumo anual dos vôos em 2020 o menor valor do closeness centrality é igual à 0.24429223744292236. O valor do closeness centrality do resumo anual de 2021 é igual a 0.24429223744292236, assim como o valor referente ao ano anterior.
 
 
-Eigenvector Centrality: Essa métrica diz a importância de um determinado nó aos demais nós da rede, levando em consideração a importância dos nós vizinhos. Quanto maior for o valor atribuido a um nó, maior será sua importância na rede. Assim o maior valor atribuido a um nóno resumo anual dos vôos em 2020 é igual a 0.3927799650843763.
+Eigenvector Centrality: Essa métrica diz a importância de um determinado nó aos demais nós da rede, levando em consideração a importância dos nós vizinhos. Quanto maior for o valor atribuido a um nó, maior será sua importância na rede. Assim o maior valor atribuido a um nóno resumo anual dos vôos em 2020 é igual a 0.3927799650843763. Assim como nas métricas anteriores, também não houve alteração no valor do eigenvector centrality para o resumo anual dos vôos no ano de 2021, sendo este igual ao do ano anterior.
 
 
 Centrality Distributions: 
