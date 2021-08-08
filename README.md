@@ -27,3 +27,22 @@ Core Decomposition:
 
 
 ## Comparativo
+
+Diameter: 
+
+
+Center: 
+
+
+Closeness Centrality: 
+
+
+Eigenvector Centrality:
+
+
+Centrality Distributions: 
+
+![1](https://user-images.githubusercontent.com/41967839/128634008-0b57833b-1ecf-4b20-9fe0-77284c9f7d3f.png)
+
+
+Core Decomposition:
