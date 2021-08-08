@@ -3,7 +3,7 @@ Este repositório contém registro de voôs realizado no Brasil nos anos de 2020
 
 ## Datasets
 O conjunto de dado utilizados está em resumo_anual_2020.csv e resumo_anual_2021.csv.
-Em PDF1.csv estãos os valores das métricas que foram utilizados para gerar o Centrality Distributions .....
+Em PDF1.csv estãos os valores das métricas que foram utilizados para gerar a PDF (Probability Density Function) e analisar os dados de maior complexidade. 
 Os datasets utilizados foram baixados do site: https://www.gov.br/anac/pt-br/assuntos/dados-e-estatisticas/dados-estatisticos.
 
 ## Métricas
