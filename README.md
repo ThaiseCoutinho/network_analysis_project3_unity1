@@ -26,6 +26,12 @@ Core Decomposition:
 
 
 
+## Grafo da rede
+Como os valores dos datasets utilizados são muito próximos, o grafo abaixo se refere a malha de ambas as redes.
+![3](https://user-images.githubusercontent.com/41967839/128645330-9a07c46a-7fa0-406f-86ca-77bd9fe079f4.png)
+
+
+
 ## Comparativo
 
 Diameter: Antes de saber o diâmentro de uma rede propriamente dito, se faz necessário conhencer sua eccentricity (excentricidade) que se refere basicamente a distância máxima de um referido nó aos demais nós da rede, assim sendo o diâmetro é o maior valor (valor máximo) da excentricidade presente na rede. A malha da rede referente ao resumo anual dos vôos em 2020 possui cento e oito (108) nós com excentricidade máxima de seis (6), ou seja o valor do diâmetro nessa rede é seis (6). A malha de rede do resumo anual de 2021 possui cento e oito nós, com excentricidade máxima seis, dessa forma percebe-se que não houve mundança significativa nas malhas de rede dos anos analisados.
@@ -40,14 +46,14 @@ Closeness Centrality: O objetivo dessa métrica é descobrir a distância média
 Eigenvector Centrality: Essa métrica diz a importância de um determinado nó aos demais nós da rede, levando em consideração a importância dos nós vizinhos. Quanto maior for o valor atribuido a um nó, maior será sua importância na rede. Assim o maior valor atribuido a um nóno resumo anual dos vôos em 2020 é igual a 0.3927799650843763. Assim como nas métricas anteriores, também não houve alteração no valor do eigenvector centrality para o resumo anual dos vôos no ano de 2021, sendo este igual ao do ano anterior.
 
 
-Centrality Distributions: 
-Na imagem a seguir temos.... 2020
+Centrality Distributions: Uma das estratégias que se pode usar ao analise de diferentes redes é a comparação das métricas par a par, na imagem abaixo temos uma comparação das métricas closeness centrality e eigenvector centrality, na diagonal principal temos a PDF das nossas variáveis (métricas), essa distribuição de probalidade possui uma assimetria positiva , no triângulo superior temos um gráfico de dispersão e uma versão do KDE (kernel density estimation) multivariável no triângulo inferior.
+
 
 ![1](https://user-images.githubusercontent.com/41967839/128634008-0b57833b-1ecf-4b20-9fe0-77284c9f7d3f.png)
-
-2021
-![2](https://user-images.githubusercontent.com/41967839/128640301-e690de38-06b0-489c-bedb-c3776225c38d.png)
 
 
 
 Core Decomposition:
+
+
+Conlusão:
