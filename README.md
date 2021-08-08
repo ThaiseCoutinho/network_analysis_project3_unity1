@@ -53,7 +53,17 @@ Centrality Distributions: Uma das estratégias que se pode usar ao analise de di
 
 
 
-Core Decomposition:
+Core Decomposition: O Core Decomposition é semelhante a encontrar o núcleo do planeta terra uma vez que a mesma é subdividida em camadas. Usar esta métrica consiste em dividir o grafo de acordo com o grau de cada nó, ou seja, a quantidade de conexões que possibilita sair de um nó para outro, quando o k=1, temos todos os nós do grafo pois até o que não se liga a nenhum outro nó é apresentado no grafo, quando partimos para o segundo core, k=2, os nós que estão conectados a apenas um outro nó são excluídos do grafo e assim por diante até chegar nos nós centrais, ou seja, os que possuem o máximo de conexões.
+![WhatsApp Image 2021-08-08 at 19 19 48](https://user-images.githubusercontent.com/41967839/128647387-836c0356-606c-4a66-861e-92da665af159.jpeg)
+
+
+No nosso caso, foram gerados 9 núcleos, ou seja, os nós do núcleo da rede se ligam com até outros 9 nós. 
+![WhatsApp Image 2021-08-08 at 19 19 47](https://user-images.githubusercontent.com/41967839/128647395-67a9a962-b119-4f58-96ed-dcdc40b0ec0a.jpeg)
+
+
+Na imagem acima, temos os nós mais externos, em azul, que se ligam a, pelo menos, um outro nó do grafo e que são excluídos quando avança para a camada de k=2. Essa análise foi feita para ambas as malhas de rede (2020 e 2021), pois apresentam os mesmo resultados. 
+
 
 
 Conlusão:
+Como analisado através dos resultados obtidos conclui-se que não houve alterações nas malhas aéreas dos anos de 2020 e 2021, podemos atribuí isso ao estado de pademia que o país vem enfrentado no decorrer deste dois anos. 
