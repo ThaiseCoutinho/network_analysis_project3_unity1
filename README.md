@@ -1,4 +1,4 @@
-# Malha aeria brasileira
+# Malha aéria brasileira
 Este repositório contém registro de voôs realizado no Brasil nos anos de 2020 e 2021, os dados foram retirados do site da ANAC (Agência Nacional de Aviação Civil - National Civil Aviation Agency), temos ainda uma comparação entre as malhas dos anos citados anteriomente através de métricas. 
 
 ## Datasets
@@ -8,9 +8,17 @@ Os datasets utilizados foram baixados do site: https://www.gov.br/anac/pt-br/ass
 
 ## Métricas
 Diameter: Diâmentro da rede.
+
+
 Center: Conjunto de todos os nós em uma rede cujo a eccentricity é igual ao raio da rede.
+
+
 Closeness Centrality: Distância média entre os vértices.
+
+
 Eigenvector Centrality: Importância baseada na importância dos nós vizinhos.
+
+
 Centrality Distributions: 
 
 ## Generate
