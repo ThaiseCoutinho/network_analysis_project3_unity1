@@ -27,7 +27,7 @@ Core Decomposition:
 
 
 ## Grafo da rede
-Como os valores dos datasets utilizados são muito próximos, o grafo abaixo se refere a malha de ambas as redes.
+Como os valores dos datasets utilizados são muito próximos o grafo abaixo se refere a malha de ambas as redes.
 ![3](https://user-images.githubusercontent.com/41967839/128645330-9a07c46a-7fa0-406f-86ca-77bd9fe079f4.png)
 
 
@@ -46,7 +46,7 @@ Closeness Centrality: O objetivo dessa métrica é descobrir a distância média
 Eigenvector Centrality: Essa métrica diz a importância de um determinado nó aos demais nós da rede, levando em consideração a importância dos nós vizinhos. Quanto maior for o valor atribuido a um nó, maior será sua importância na rede. Assim o maior valor atribuido a um nóno resumo anual dos vôos em 2020 é igual a 0.3927799650843763. Assim como nas métricas anteriores, também não houve alteração no valor do eigenvector centrality para o resumo anual dos vôos no ano de 2021, sendo este igual ao do ano anterior.
 
 
-Centrality Distributions: Uma das estratégias que se pode usar ao analise de diferentes redes é a comparação das métricas par a par, na imagem abaixo temos uma comparação das métricas closeness centrality e eigenvector centrality, na diagonal principal temos a PDF das nossas variáveis (métricas), essa distribuição de probalidade possui uma assimetria positiva , no triângulo superior temos um gráfico de dispersão e uma versão do KDE (kernel density estimation) multivariável no triângulo inferior.
+Centrality Distributions: Uma das estratégias que se pode usar ao analise de diferentes redes é a comparação das métricas par a par, na imagem abaixo temos uma comparação das métricas closeness centrality e eigenvector centrality, na diagonal principal temos a PDF das nossas variáveis (métricas), essa distribuição de probalidade possui uma assimetria positiva, no primeiro gráfico podemos observar uma alta quantidade de nós com um valor baixo de eigenvector, ou seja muitos nós na rede possuem uma baixa importância, enquanto uma menor quantidade de nós são realmente impotantes na rede. No triângulo superior temos um gráfico de dispersão, onde percebemos que mesmo os nós de maior importância possuem uma distância média pequena, porém também é possível notar que a rede em questão possui uma grande quantidade de nós com pouca importância. No triângulo inferior temos  e uma versão do KDE (kernel density estimation) multivariável no triângulo inferior.
 
 
 ![1](https://user-images.githubusercontent.com/41967839/128634008-0b57833b-1ecf-4b20-9fe0-77284c9f7d3f.png)
